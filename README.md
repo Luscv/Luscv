@@ -6,7 +6,7 @@
   const Lucas = {
     age: 23,
     location: "Brazil, MG",
-    techs: ["Javascript", "Html", "Css", "Typescript", "VueJs", "Pinia", "Vuetify", "Quasar", "Vuex"],
+    techs: ["Html", "Css", "Javascript", "Typescript", "VueJs", "Pinia", "Vuetify", "Quasar", "Vuex"],
     softSkills: ["creative", "comunicative", "organized", "collaborative", "disciplined", "optimistic"]
   }
 ```
