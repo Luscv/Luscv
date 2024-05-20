@@ -14,7 +14,7 @@
 
  - **Linkedin:** [Lucas Barros](https://www.linkedin.com/in/lucas-barros-8a690a150/)
 
- - **My Portifolio:** [Portifolio](https://luscv.github.io/Portifolio_Lucas_Barros/)
+ - **My Portifolio:** [Portifolio](https://luscv-web-portifolio.vercel.app/#/)
  - **Email:** lucbarrospc@gmail.com
 <!--
 **Luscv/Luscv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
