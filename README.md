@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 
-### My name is **Lucas Barros** and I'm a **Front-End Developer**!
+### My name is **Lucas Barros** and I'm a **Software Engineer**!
 
 ```javascript
   const Lucas = {
