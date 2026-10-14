@@ -1,20 +1,19 @@
 ## Welcome to my profile! 👋
 
-### My name is **Lucas Barros** and I'm a **Software Engineer**!
+### My name is **Lucas Barros** and I'm a **Data Scientist**!
 
-```javascript
-  const Lucas = {
-    age: 25,
+```python
+  Lucas = {
+    age: 27,
     location: "Brazil, MG",
-    techs: ["Javascript", "Typescript", "VueJs", "React", "React Native", "NodeJs"],
+    techs: ["Python", "Typescript", "SQL", "C++", "R"],
     softSkills: ["creative", "comunicative", "organized", "collaborative", "disciplined", "optimistic"]
   }
 ```
 ### 📫 How to reach me:
 
- - **Linkedin:** [Lucas Barros](https://www.linkedin.com/in/lucas-barros-8a690a150/)
+ - **Linkedin:** [Lucas Barros](https://www.linkedin.com/in/luscv/)
 
- - **My Portifolio:** [Portifolio](https://luscv-web-portifolio.vercel.app/#/)
  - **Email:** lucbarrospc@gmail.com
 <!--
 **Luscv/Luscv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
