@@ -1,31 +1,39 @@
-## Welcome to my profile! 👋
+# Howdy, I'm Lucas! 🤠
 
-### My name is **Lucas Barros** and I'm a **Data Scientist**!
+I'm a **Data Scientist with a background in Software Engineering**. I enjoy the whole journey from figuring out *what the problem actually is* to building something that helps solve it.
 
-```python
-  Lucas = {
-    age: 27,
-    location: "Brazil, MG",
-    techs: ["Python", "Typescript", "SQL", "C++", "R"],
-    softSkills: ["creative", "comunicative", "organized", "collaborative", "disciplined", "optimistic"]
-  }
-```
-### 📫 How to reach me:
+These days, I'm especially into **Machine Learning, Statistical Modeling, and Forecasting**. I like understanding *why* a model works just as much as getting it to work.
 
- - **Linkedin:** [Lucas Barros](https://www.linkedin.com/in/luscv/)
+### 🔎 What I've been up to
 
- - **Email:** lucbarrospc@gmail.com
-<!--
-**Luscv/Luscv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📦 **Solving real-world problems:** At my current position, I developed SQL Server-based heuristics for import planning and inventory replenishment across **300+ product profiles**.
+- 📈 **Forecasting things:** I'm developing a Python-based demand forecasting approach, working through historical data reconstruction and temporal backtesting. Because a model should have to prove itself on data it hasn't seen.
+- 📚 **Going down the statistics rabbit hole:** I'm currently pursuing a postgraduate specialization in **Statistics for AI and Data Science at PUC Minas**.
+- 🔬 **Keeping an eye on research:** I'm interested in applied research, reproducible ML, and contributing to scientific open-source projects.
 
-Here are some ideas to get you started:
+### 🧪 Things you'll find around here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What's inside |
+| --- | --- |
+| [Telco Customer Churn](https://github.com/Luscv/telco-customer-churn) | Predicting customer churn with logistic regression and decision trees in R. |
+| [Pearson Correlation & R²](https://github.com/Luscv/Demonstracao-Pearson-R2) | Working through the math behind correlation and the coefficient of determination. |
+| [Statistical Demonstrations](https://github.com/Luscv/Demonstra-es) | Notes and mathematical derivations from things I'm learning. |
+| [mini-React](https://github.com/Luscv/mini-React) | A little throwback to my software engineering side: building a React-inspired rendering experiment. |
+
+### 🛠️ My toolbox
+
+**Data & modeling:** Python · R · SQL · Machine Learning · Statistical Modeling
+
+**Software engineering:** TypeScript · JavaScript · C++ · Git
+
+### 🌎 A little more about me
+
+When I'm not staring at code or trying to make sense of a statistical formula, I'm probably **working out, learning languages, gaming, or exploring somewhere new**.
+
+And yes, the cowboy hat is staying. 🤠
+
+### 🤝 Say hi!
+
+I'm always happy to connect with people working on interesting problems, especially in data science, machine learning, and open source.
+
+[LinkedIn](https://www.linkedin.com/in/luscv/) · [Email](mailto:lucbarrospc@gmail.com)
