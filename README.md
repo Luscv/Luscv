@@ -24,7 +24,7 @@ These days, I'm especially into **Machine Learning, Statistical Modeling, and Fo
 
 **Data & modeling:** Python · R · SQL · Machine Learning · Statistical Modeling
 
-**Software engineering:** TypeScript · JavaScript · C++ · Git
+**Software engineering:** TypeScript · C++ · Git
 
 ### 🌎 A little more about me
 
