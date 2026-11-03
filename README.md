@@ -18,7 +18,8 @@ These days, I'm especially into **Machine Learning, Statistical Modeling, and Fo
 | [Telco Customer Churn](https://github.com/Luscv/telco-customer-churn) | Predicting customer churn with logistic regression and decision trees in R. |
 | [Pearson Correlation & R²](https://github.com/Luscv/Demonstracao-Pearson-R2) | Working through the math behind correlation and the coefficient of determination. |
 | [Statistical Demonstrations](https://github.com/Luscv/Demonstra-es) | Notes and mathematical derivations from things I'm learning. |
-| [Credit Risk](https://github.com/Luscv/Credit-Risk-Modeling) | Predictive modeling project focused on estimating loan applicants’ probability of default. |
+| [Credit Risk - Lending Club](https://github.com/Luscv/CreditRiskModeling-LendingClub) | Project to calculate Expected Loss via predictive modeling of PD, LGD and EAD|
+| [Credit Risk - Home Credit](https://github.com/Luscv/Credit-Risk-Modeling) | Predictive modeling project focused on estimating loan applicants’ probability of default (PD). |
 
 ### 🛠️ My toolbox
 
